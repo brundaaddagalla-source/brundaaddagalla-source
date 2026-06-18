@@ -182,8 +182,8 @@ An educational platform designed to help students understand virtual memory conc
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/brunda-a-085ab7385/
-- GitHub: https://github.com/your-github-username
-- LeetCode: https://leetcode.com/your-leetcode-username
+- GitHub: https://github.com/brundaaddagalla-source
+- LeetCode: https://leetcode.com/u/3t7gKUa4WI/
 
 ---
 
